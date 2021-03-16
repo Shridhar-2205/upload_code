@@ -1,0 +1,2 @@
+cd /home/ubuntu/go/src/github.com/cisco-app-networking/wcm-system/system_topo/
+./deploy_demo_app.sh --component-map-file=${HOME}/go/src/github.com/cisco-app-networking/wcm-system/system_topo/config/wcm-3-cluster.sh --service-name=yellow
